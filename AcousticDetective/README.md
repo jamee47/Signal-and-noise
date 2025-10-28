@@ -1,2 +1,3 @@
 # Acoustic Detective
-Correlation based snippet detector in the audio
+A audio detector
+
