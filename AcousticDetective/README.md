@@ -1,3 +1,3 @@
 # Acoustic Detective
-A audio detector
+a clone of shazam
 
